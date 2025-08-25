@@ -1,2 +1,5 @@
-# Hello Git
-Start New Test Project to Practice
+What is Git?
+Git is a distributed, open-source version control system. It enables developers and data scientists to track code, merge changes and revert to older versions - AWS. It allows you to sync changes with a remote server. Due to its flexibility and popularity, Git has become an industry standard as it supports almost all development environments, command-line tools, and operating systems. 
+
+How does Git work?
+Git stores your files and their development history in a local repository. Whenever you save changes you have made, Git creates a commit. A commit is a snapshot of current files. These commits are linked with each other, forming a development history graph, as shown below. It allows us to revert back to the previous commit, compare changes, and view the progress of the development project - Azure DevOps. The commits are identified by a unique hash which is used to compare and revert the changes made.  
